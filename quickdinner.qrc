@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LandingPage.qml</file>
+        <file>AdminPage.qml</file>
+        <file>BookingPage.qml</file>
+        <file>DashboardPage.qml</file>
+        <file>HistoryPage.qml</file>
+        <file>LoginSignPage.qml</file>
+        <file>Main.qml</file>
+        <file>backgroundpict.jpeg</file>
+        <file>secondbackground.jpeg</file>
+    </qresource>
+</RCC>
